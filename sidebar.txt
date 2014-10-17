@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goi:home|Door43 (goi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goi|d43-goi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goi/archive/master.zip|d43-goi.zip]]
+
+**Recent Changes**
+{{changes>ns = goi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goi|Ethnologue data]]
+
